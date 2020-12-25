@@ -1,3 +1,2 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoSenTrad)](https://github.com/anuraghazra/github-readme-stats)
-[![LoSenTrad's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LoSenTrad&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />)
