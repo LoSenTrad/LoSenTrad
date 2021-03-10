@@ -6,6 +6,6 @@
 * 喜欢制作奇奇怪怪的东西
 * 会一点点编程，偶尔写一些简单的小东西👨‍💻‍
 * 交流QQ群：[1045568246](https://jq.qq.com/?_wv=1027&k=q5vKUXdF)
-* 你已进入监控区域, 不要干坏事喔![visitors](https://visitor-badge.glitch.me/badge?page_id=losentrad.losentrad.readme)
+* 你已进入监控区域, 不要干坏事喔! 🤓[visitors](https://visitor-badge.glitch.me/badge?page_id=losentrad.losentrad.readme)🤓
 
 
