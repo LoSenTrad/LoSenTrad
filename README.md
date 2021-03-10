@@ -5,5 +5,7 @@
 * 喜欢科幻悬疑类的电影
 * 喜欢制作奇奇怪怪的东西
 * 会一点点编程，偶尔写一些简单的小东西👨‍💻‍
-* 交流qq群：[1045568246](https://jq.qq.com/?_wv=1027&k=q5vKUXdF)
+* 交流QQ群：[1045568246](https://jq.qq.com/?_wv=1027&k=q5vKUXdF)
+* ![visitors](https://visitor-badge.glitch.me/badge?page_id=smilezxlee.smilezxlee.readme)
+
 
