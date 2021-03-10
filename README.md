@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LoSenTrad&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoSenTrad)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 * 喜欢写字✍️
@@ -7,4 +7,4 @@
 * 会一点点编程，偶尔写一些简单的小东西👨‍💻‍
 * 交流qq群：[790460711](https://jq.qq.com/?_wv=1027&k=vU2fKZZH)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoSenTrad)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LoSenTrad&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
